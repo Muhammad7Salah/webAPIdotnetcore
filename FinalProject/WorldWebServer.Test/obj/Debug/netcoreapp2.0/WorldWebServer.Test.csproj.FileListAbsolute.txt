@@ -1,0 +1,15 @@
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.deps.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.runtimeconfig.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.runtimeconfig.dev.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.Test.pdb
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\bin\Debug\netcoreapp2.0\WorldWebServer.pdb
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.csproj.CoreCompileInputs.cache
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.AssemblyInfoInputs.cache
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.AssemblyInfo.cs
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer.Test\obj\Debug\netcoreapp2.0\WorldWebServer.Test.pdb

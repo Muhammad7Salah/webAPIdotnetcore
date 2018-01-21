@@ -1,0 +1,10 @@
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.deps.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.runtimeconfig.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.runtimeconfig.dev.json
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.pdb
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.csproj.CoreCompileInputs.cache
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.AssemblyInfoInputs.cache
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.AssemblyInfo.cs
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.dll
+C:\Users\M.Salah\Documents\DotNet\FinalProject\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.pdb

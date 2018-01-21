@@ -1,0 +1,10 @@
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.deps.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.dev.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.dll
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.pdb
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.csproj.CoreCompileInputs.cache
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfoInputs.cache
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfo.cs
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.dll
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.pdb

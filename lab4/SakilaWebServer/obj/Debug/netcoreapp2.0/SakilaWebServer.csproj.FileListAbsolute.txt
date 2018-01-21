@@ -1,0 +1,10 @@
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.deps.json
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.runtimeconfig.json
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.runtimeconfig.dev.json
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.dll
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.pdb
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.csproj.CoreCompileInputs.cache
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.AssemblyInfoInputs.cache
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.AssemblyInfo.cs
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.dll
+C:\Users\M.Salah\Documents\DotNet\lab4\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.pdb

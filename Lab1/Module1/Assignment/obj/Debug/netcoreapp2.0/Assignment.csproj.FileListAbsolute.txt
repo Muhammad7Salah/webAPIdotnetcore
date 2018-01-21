@@ -1,0 +1,10 @@
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\M.Salah\Documents\DotNet\Lab1\Module1\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb
